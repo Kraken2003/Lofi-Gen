@@ -31,7 +31,7 @@ This repository contains code for generating lofi music using a Long Short-Term 
 
 # Getting Started :
 
-* Install required libraries (refer to documentation for each library).
+* Install required libraries.
 * Download or prepare your lofi music dataset in a pickle format.
 * Execute the Python scripts to train the network and generate music.
 
